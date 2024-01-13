@@ -6,10 +6,10 @@
 
 ## About Me 👨
 
-I'm fullstack web developer with a strong passion for creating amazing digital experiences. As a full stack developer, I possess profound skills on both the frontend and backend of development. On the frontend, I am adept at using technologies such as HTML, CSS, tailwind, bootstrap and JavaScript. I have experience working with frameworks like React and Vue to build responsive and engaging user interfaces.On the backend side, I have expertise in server-side development using programming languages such as JavaScript, If you're looking for someone committed to delivering the best results and always eager to learn new things, I am eager to contribute to interesting and challenging projects.
+Hello! I'm a passionate fullstack web developer skilled in both frontend (HTML, CSS, Tailwind, Bootstrap, React, Vue) and backend (node.js, Express.js). Committed to delivering top-notch results, I'm eager to contribute to exciting projects. Let's create something amazing together! Thanks for visiting my profile.
 
-Thank you for visiting my profile!
+Feel free to use or adjust it as needed!
 
 ## Some Tool I Use 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,nodejs,express)](https://skillicons.dev)
