@@ -12,4 +12,4 @@ Feel free to use or adjust it as needed!
 
 ## Some Tool I Use 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,vite,nodejs,express)](https://skillicons.dev)
