@@ -14,5 +14,5 @@ Feel free to use or adjust it as needed!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,vite,nodejs,express)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu1s&show_icons=true&locale=en&layout=compact" alt="bayu1s" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bayu1s&show_icons=true&locale=en" alt="bayu1s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardigiandis&show_icons=true&locale=en&layout=compact" alt="ardigiandi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ardigiandi&show_icons=true&locale=en" alt="ardigiandi" /></p>
