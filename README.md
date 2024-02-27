@@ -8,7 +8,6 @@
 
 Hello! I'm a passionate fullstack web developer skilled in both frontend (HTML, CSS, Tailwind, Bootstrap, React, Vue) and backend (node.js, Express.js). Committed to delivering top-notch results, I'm eager to contribute to exciting projects. Let's create something amazing together! Thanks for visiting my profile.
 
-Feel free to use or adjust it as needed!
 
 ## Some Tool I Use 🛠️
 
